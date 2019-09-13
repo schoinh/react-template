@@ -7,7 +7,7 @@ import React from "react";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       {/* <Switch>
         <Route exact path='/' component={TicketList} />
         <Route path='/newticket' component={NewTicketForm} />
