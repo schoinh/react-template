@@ -4,7 +4,7 @@
   "description": "Web app for a tap room to track kegs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest --watchAll",
     "start": "eslint src/** src/**/** --fix; webpack-dev-server; exit 0",
     "lint": "eslint src/** src/**/**; exit 0",
     "lint-fix": "eslint src/** src/**/** --fix; exit 0"
