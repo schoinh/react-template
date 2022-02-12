@@ -29,7 +29,7 @@
     "wanted": "^1.4.3"
   },
   "devDependencies": {
-    "ajv": "^6.9.1",
+    "ajv": "^6.12.3",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-es2015": "^6.24.1",
